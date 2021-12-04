@@ -19,7 +19,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 There are 4 REST APIs in this project:\
-**GET to read all user**                Route: '/users'\
+**GET to read all user**\t                Route: '/users'\
 **POST user with query parameter**      Route: '/user/find'\
 **POST to create new user**             Route: '/user/add'\
 **POST to upddate user**                Route: '/user'
