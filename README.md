@@ -16,9 +16,9 @@ You will also see any lint errors in the console.
 
 There are 4 REST APIs in this project:
 **GET to read all user**\
-**GET user with query parameterr**\
+**GET user with query parameter**\
 **POST to create new user**\
-**POST to upddate user**\
+**POST to upddate user**
 
  
 
