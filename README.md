@@ -20,6 +20,6 @@ You will also see any lint errors in the console.
 
 There are 4 REST APIs in this project:\
 **GET to read all user**--------------------------------Route: '/users'\
-**POST to search user with query parameter**------Route: '/user/find'\
-**POST to create new user**--------------------------Route: '/user/add'\
-**POST to upddate user**-----------------------------Route: '/user'
+**POST to search user with query parameter**------Route: '/users/find'\
+**POST to create new user**--------------------------Route: '/users/add'\
+**POST to upddate user**-----------------------------Route: '/users'
