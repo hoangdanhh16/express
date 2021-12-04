@@ -2,6 +2,10 @@
 
 REST APIs for user-app
 
+## Implementations
+
+You can test this project in [GET all users](https://danhhoang-express-app.herokuapp.com/users)
+
 ## Build project in local
 
 You can run project in the directory
@@ -16,6 +20,7 @@ You will also see any lint errors in the console.
 
 There are 4 REST APIs in this project:\
 **GET to read all user**\
+
 **GET user with query parameter**\
 **POST to create new user**\
 **POST to upddate user**
