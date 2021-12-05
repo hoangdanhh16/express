@@ -10,6 +10,10 @@ You can test this project in [GET all users](https://danhhoang-express-app.herok
 
 You can run project in the directory
 
+### `npm install`
+
+First of all, to run this project in the directory, you have to install all modules
+
 ### `npm start`
 
 Runs the app in the development mode.\
